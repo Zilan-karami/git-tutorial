@@ -1,1 +1,1 @@
-console.log("botostart20");
+console.log("botostart");
